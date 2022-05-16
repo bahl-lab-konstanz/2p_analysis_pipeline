@@ -1,2 +1,2 @@
 # 2p_analysis_pipeline
-Florians pipeline to analyze preprocessed 2p data
+Florians basic pipeline to analyze preprocessed 2p data
